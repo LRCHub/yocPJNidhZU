@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "サーチライト",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-15T04:15:10.795225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サーチライト",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/01_サーチライト_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サーチライト",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/02_サーチライト_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サーチライト",
+      "artist": "小松未可子",
+      "has_synced": false,
+      "path": "select/03_サーチライト_小松未可子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サーチライト",
+      "artist": "玉置浩二",
+      "has_synced": true,
+      "path": "select/04_サーチライト_玉置浩二.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サーチライト (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/05_サーチライト_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サーチライト",
+      "artist": "秋山黄色",
+      "has_synced": true,
+      "path": "select/06_サーチライト_秋山黄色.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サーチライト",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/07_サーチライト_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サーチライト",
+      "artist": "ビレッジマンズストア",
+      "has_synced": false,
+      "path": "select/08_サーチライト_ビレッジマンズストア.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サーチライト",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_サーチライト_CLAN_QUEEN.txt"
+    }
+  ]
+}
