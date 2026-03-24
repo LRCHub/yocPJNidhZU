@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "サーチライト",
   "base_artist": "CLAN QUEEN",
-  "createdAt": "2026-02-15T04:15:10.795225Z",
+  "createdAt": "2026-03-24T03:23:02.394445Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,15 @@
       "artist": "CLAN QUEEN",
       "has_synced": false,
       "path": "select/pl_01_サーチライト_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "サーチライト",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/localdb_01_サーチライト_CLAN_QUEEN.txt",
+      "repo_name": "yocPJNidhZU"
     }
   ]
 }
